@@ -66,12 +66,6 @@ This software uses the following open source packages:
 - [Mongodb](https://www.mongodb.com/)
 
 
-## License
-
-GPL
-
----
-
 > GitHub [@Animeshnbe](https://github.com/Animeshnbe) &nbsp;&middot;&nbsp;
 [@Chaitanya](https://github.com/chaitanya-dama) &nbsp;&middot;&nbsp;
 [@SaiVenkatesh](https://github.com/venkatesh2128) &nbsp;&middot;&nbsp;
