@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/Animeshnbe/code_snip_recommender">SSD Project Team 16</a>
+  <a href="https://github.com/laxman1103/code_snippet_recommender">SSD Project Team 16</a>
   <br>
   Code Snippet Recommender
   <br>
@@ -34,7 +34,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone or fork https://github.com/Animeshnbe/code_snip_recommender
+$ git clone or fork https://github.com/laxman1103/code_snippet_recommender
 
 # Go into the repository
 $ cd code_snip_recommender
@@ -53,18 +53,6 @@ $ node app.js
 
 # open /ui/index.html in browser
 ```
-## Demo Video
-
-<a href="https://drive.google.com/file/d/1VqfPf8rk0-yeJF2AN0wxCA5J8y7-Zn_-/view?usp=sharing">Link</a>
-
-## Team UMetrix
-
-Team number 16, Mentor: Sai Anirudh Karri [@sai11101989]
-Members
-- Animesh Das
-- Venkatesh Ravada
-- Krishna Chaitanya
-- Yogesh Rawat
 
 ## Credits
 
