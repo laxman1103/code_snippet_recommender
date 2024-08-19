@@ -65,14 +65,6 @@ This software uses the following open source packages:
 - [Ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 - [Mongodb](https://www.mongodb.com/)
 
-## Submission Date
-
-_30 November, 2022_
-
-## To Do...
-
-- Similar search, text similarity with code
-- Outlier removal, blocklist users
 
 ## License
 
